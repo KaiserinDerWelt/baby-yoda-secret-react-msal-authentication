@@ -1,0 +1,13 @@
+.navbar {
+  text-transform: uppercase;
+  a {
+    text-transform: uppercase;
+    font-weight: 500;
+    &:hover {
+      color: theme-color("primary");
+    }
+  }
+  a.active {
+    color: theme-color("primary");
+  }
+}
