@@ -19,7 +19,7 @@ Me, Mariana A. KaiserinDerWelt (@KaiserinDer) Software Engineer I was in charge 
 
 I want to thank Derya Tanrıverdi (@Derya_T88) Full Stack Software Engineer  and Enthusiastic CSS Artist from Flatiron School in  New York City from her amazing collaboration by building from scratch "The Child - Baby Yoda" in HTML-CSS  lend it to this Fan Dev - Art Project.
 
-Aviete (Avi3te on Instragram) a Lithuanian Illustrator,thank you for illustrating Baby Yoda thank you for your generous contribution for this open source project.
+Aviete (Avi3te on Instragram) a Lithuanian Illustrator, for illustrating Baby Yoda thank you for your generous contribution for this open source project.
 
 ## Prerequisites
 - Node.
