@@ -12,12 +12,14 @@ This project consist in  3 parts:
 - Generation and modification of an .env.local file to set Client_ID and  Tenant_ID.
 
 ## Important
-All reserved rights to Disney & Lucas Films and related subsidiaries for the STAR WARS characters,graphics, characters and any other related material involving "The Child". 
+All reserved rights to Disney & Lucas Films and related subsidiaries for the STAR WARS characters,graphics and any other related material involving "The Child". 
 
 ## Collaboration*
 Me, Mariana A. KaiserinDerWelt (@KaiserinDer) Software Engineer I was in charge of the backend authentication engine,react application architecture desing, component development & product design to transport the user from Gaia to Arvala-7.
 
 I want to thank Derya Tanrıverdi (@Derya_T88) Full Stack Software Engineer  and Enthusiastic CSS Artist from Flatiron School in  New York City from her amazing collaboration by building from scratch "The Child - Baby Yoda" in HTML-CSS  lend it to this Fan Dev - Art Project.
+
+Aviete (Avi3te on Instragram) a Lithuanian Illustrator,thank you for illustrating Baby Yoda thank you for your generous contribution for this open source project.
 
 ## Prerequisites
 - Node.
